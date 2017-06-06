@@ -1,9 +1,9 @@
-<strong>Master branch</strong><br />
-[![Build status](https://ci.appveyor.com/api/projects/status/m1ls9r8mu40oqnob/branch/master?svg=true)](https://ci.appveyor.com/project/charleslomboni/delegates-events/branch/master)
-
 # Delegates-Events
 >Examples of how use delegates and events.
 Above there are some tips of how create, call and use it.
+
+<strong>Master branch</strong><br />
+[![Build status](https://ci.appveyor.com/api/projects/status/m1ls9r8mu40oqnob/branch/master?svg=true)](https://ci.appveyor.com/project/charleslomboni/delegates-events/branch/master)
 
 __Steps to create a event__
 * Define a delegate
