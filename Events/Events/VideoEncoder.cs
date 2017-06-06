@@ -19,7 +19,7 @@ namespace Events {
         /// Method that encode a video with a format
         /// </summary>
         /// <param name="video"></param>
-        public void Enconde(Video video) {
+        public void Encode(Video video) {
             Console.WriteLine("Enconding Video...");
             Thread.Sleep(3000);
             // Call the event that send message to the subscribers

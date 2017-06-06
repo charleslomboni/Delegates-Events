@@ -22,7 +22,7 @@ namespace Events {
             videoEncoder.VideoEncoded += mailService.OnVideoEncoded;
 
             // Call to method that encode the video
-            videoEncoder.Enconde(video);
+            videoEncoder.Encode(video);
 
             // Wait for some character in console application
             Console.Read();
